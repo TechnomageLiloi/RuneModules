@@ -1,0 +1,14 @@
+{
+    "name": "technomage-liloi/rune-modules",
+    "keywords": [
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Liloi\\Modules\\": "Source"
+        }
+    }
+}
